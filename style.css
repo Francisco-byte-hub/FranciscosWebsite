@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+  color: blue;
+  background-color: pink;
+  font-size: 45px;
+  font-family: times 'Times New Roman', Times, serif;
+}
+img{
+  width: 400px;
+  border-radius: 16px;
+}
